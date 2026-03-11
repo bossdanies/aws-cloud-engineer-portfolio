@@ -1,10 +1,18 @@
+# S3 Bucket Setup
 
-# Amazon S3 Bucket Setup
+## Objective
+Create an S3 bucket and upload an object to demonstrate basic S3 operations.
 
-Services:
-- Amazon S3
+## Tasks Completed
+1. Searched for S3 and selected the bucket list.
+2. Created a new S3 bucket.
+3. Verified the bucket was created successfully.
+4. Uploaded an object to the bucket.
+5. Confirmed the object upload was successful.
 
-Tasks:
-- Create bucket
-- Upload files
-- Configure permissions
+## Screenshots
+- **step1-s3-search.png** – Shows the S3 service and the bucket list.
+- **step2-create-bucket.png** – Shows the creation process of a new bucket.
+- **step3-created-bucket.png** – Shows that the bucket has been successfully created.
+- **step4-upload-object.png** – Shows uploading an object to the bucket.
+- **step5-upload-succeeded.png** – Shows the upload success notification.

@@ -30,9 +30,9 @@ Uploaded a test object (aws-s3-object.txt) to the source bucket and verified tha
 
 ## Screenshots
 
-- **step-01-create-s3-buckets-cross-region.png – Shows the creation of the source and destination buckets in different AWS regions.
-- **step-02-open-s3-replication-configuration.png – Shows accessing the replication configuration settings in the source bucket.
-- **step-03-create-cross-region-replication-rule.png – Shows the setup of the cross-region replication rule.
-- **step-04-cross-region-replication-rule-enabled.png – Shows confirmation that the replication rule was successfully created and enabled.
-- **step-05-object-uploaded-to-source-bucket.png – Shows the test object uploaded to the source bucket.
-- **step-06-object-replicated-to-destination-bucket.png – Shows the replicated object appearing in the destination bucket.
+![Step 01 - Create buckets](step-01-create-s3-buckets-cross-region.png)  
+![Step 02 - Open replication configuration](step-02-open-s3-replication-configuration.png)  
+![Step 03 - Create replication rule](step-03-create-cross-region-replication-rule.png)  
+![Step 04 - Replication rule enabled](step-04-cross-region-replication-rule-enabled.png)  
+![Step 05 - Object uploaded to source bucket](step-05-object-uploaded-to-source-bucket.png)  
+![Step 06 - Object replicated to destination bucket](step-06-object-replicated-to-destination-bucket.png) 

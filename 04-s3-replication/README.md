@@ -1,38 +1,62 @@
-# S3 Cross-Region Replication Setup
+# Amazon S3 Cross-Region Replication (CRR) Setup
+
 ## Objective
+Configure **Cross-Region Replication (CRR)** between two Amazon S3 buckets to automatically replicate objects from a source bucket in one AWS region to a destination bucket in another region.
 
-Configure Cross-Region Replication (CRR) between two Amazon S3 buckets to automatically replicate objects from a source bucket in one AWS region to a destination bucket in another region.
+---
 
-## Tasks Completed
+## Buckets Created
 
-Created two S3 buckets in different regions:
+- **Source Bucket:** `source-s3-bucket-01-2026`  
+  - Region: `us-east-1 (N. Virginia)`  
+- **Destination Bucket:** `destination-s3-bucket-02-2026`  
+  - Region: `us-east-2 (Ohio)`  
 
-source-s3-bucket-01-2026 in us-east-1 (N. Virginia) – Source bucket
-destination-s3-bucket-02-2026 in us-east-2 (Ohio) – Destination bucket
+> **Note:** Versioning is enabled on both buckets (required for replication).
 
-Enabled versioning on both buckets (required for replication).
+---
 
-Opened the Replication configuration in the source bucket and created a new replication rule with:
+## Replication Rule Configuration
 
-Rule Name: s3-region-replication-2026
-Scope: Entire bucket
-Destination Bucket: destination-s3-bucket-02-2026
-Destination Region: us-east-2 (Ohio)
-Storage Class: Same as source
-Replica Owner: Same as source
-Replication Time Control: Disabled
-KMS-encrypted objects: Do not replicate
-Replica modification sync: Disabled
+- **Rule Name:** `s3-region-replication-2026`
+- **Scope:** Entire bucket
+- **Destination Bucket:** `destination-s3-bucket-02-2026`
+- **Destination Region:** `us-east-2 (Ohio)`
+- **Storage Class:** Same as source
+- **Replica Owner:** Same as source
+- **Replication Time Control:** Disabled
+- **KMS-encrypted objects:** Do not replicate
+- **Replica modification sync:** Disabled
 
-Confirmed that the replication rule was successfully created and enabled.
+✅ Replication rule successfully **created and enabled**.
 
-Uploaded a test object (aws-s3-object.txt) to the source bucket and verified that it was automatically replicated to the destination bucket.
+---
+
+## Test Replication
+
+1. Upload a test object: `aws-s3-object.txt` to the source bucket.
+2. Verify that it is **automatically replicated** to the destination bucket.
+
+---
 
 ## Screenshots
 
-![Step 01 - Create buckets](step-01-create-s3-buckets-cross-region.png)  
-![Step 02 - Open replication configuration](step-02-open-s3-replication-configuration.png)  
-![Step 03 - Create replication rule](step-03-create-cross-region-replication-rule.png)  
-![Step 04 - Replication rule enabled](step-04-cross-region-replication-rule-enabled.png)  
-![Step 05 - Object uploaded to source bucket](step-05-object-uploaded-to-source-bucket.png)  
-![Step 06 - Object replicated to destination bucket](step-06-object-replicated-to-destination-bucket.png) 
+1. **Creation of buckets in different regions**  
+   `step-01-create-s3-buckets-cross-region.png`
+2. **Accessing replication configuration settings**  
+   `step-02-open-s3-replication-configuration.png`
+3. **Setup of cross-region replication rule**  
+   `step-03-create-cross-region-replication-rule.png`
+4. **Confirmation replication rule enabled**  
+   `step-04-cross-region-replication-rule-enabled.png`
+5. **Test object uploaded to source bucket**  
+   `step-05-object-uploaded-to-source-bucket.png`
+6. **Object replicated to destination bucket**  
+   `step-06-object-replicated-to-destination-bucket.png`
+
+---
+
+✅ **Result:** Cross-Region Replication successfully configured and verified between:
+
+- Source: `source-s3-bucket-01-2026` (us-east-1)  
+- Destination: `destination-s3-bucket-02-2026` (us-east-2)

@@ -88,7 +88,7 @@ CIDR Block: **10.0.0.0/24**
 
 ### Step 7 — Attach Internet Gateway to VPC
 
-![Step 7 - Attach Internet Gateway](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/127e93acb39771b84579c10bf9d906006b3533ba/05-setting-up-web-server-on-an-ec2-instance/step06-internet-gateway-created.png)
+![Step 7 - Attach Internet Gateway](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/88c5392cb6a89de5378dd3cfcb6677311270f7af/05-setting-up-web-server-on-an-ec2-instance/step07-attach-internet-gateway-to-vpc.png)
 
 ---
 

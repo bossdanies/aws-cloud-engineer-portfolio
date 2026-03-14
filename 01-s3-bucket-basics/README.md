@@ -18,5 +18,7 @@ Create an S3 bucket and upload an object to demonstrate basic S3 operations.
 - ![Image Alt](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/63b04fd40178436344391c3e20a492e8dc203a80/01-s3-bucket-basics/step2-create-bucket.png).
 
 - **step3-created-bucket.png** – Shows that the bucket has been successfully created.
+- ![Image Alt](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/3e627a1bd63c1c8844f52d88ac8005c6356464a6/01-s3-bucket-basics/step3-created-bucket.png).
+  
 - **step4-upload-object.png** – Shows uploading an object to the bucket.
 - **step5-upload-succeeded.png** – Shows the upload success notification.

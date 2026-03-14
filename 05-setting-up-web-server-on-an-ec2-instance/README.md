@@ -82,7 +82,7 @@ CIDR Block: **10.0.0.0/24**
 
 ### Step 6 — Internet Gateway Created
 
-![Step 6 - Internet Gateway Created](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/main/04-vpc-ec2-web-server/screenshots/step06-internet-gateway-created.png)
+![Step 6 - Internet Gateway Created](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/db30f058bd6946ee8f021835134f1784c0ca27f4/05-setting-up-web-server-on-an-ec2-instance/step06-internet-gateway-created.png)
 
 ---
 

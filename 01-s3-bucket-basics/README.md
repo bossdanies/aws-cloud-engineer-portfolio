@@ -24,5 +24,10 @@ Shows the creation process of a new bucket.
 Shows that the bucket has been successfully created.  
 ![Step 3 - Bucket Created](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/3e627a1bd63c1c8844f52d88ac8005c6356464a6/01-s3-bucket-basics/step3-created-bucket.png)
   
-- **step4-upload-object.png** – Shows uploading an object to the bucket.
-- **step5-upload-succeeded.png** – Shows the upload success notification.
+### Step 4: Upload Object
+Shows uploading an object to the bucket.  
+![Step 4 - Upload Object](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/70282afc551d53595274f63879425711023332a9/01-s3-bucket-basics/step4-upload-object.png)
+
+### Step 5: Upload Success
+Shows the upload success notification.  
+![Step 5 - Upload Success](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/70282afc551d53595274f63879425711023332a9/01-s3-bucket-basics/step5-upload-succeeded.png)

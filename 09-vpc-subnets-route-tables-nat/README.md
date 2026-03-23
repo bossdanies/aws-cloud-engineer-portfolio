@@ -23,7 +23,8 @@ Custom VPC (10.0.0.0/24)
 │ 
 └── Private Subnet (10.0.0.128/25) 
 │
-└── Route Table → NAT Gateway
+└── Route Table
+│→ NAT Gateway
 
 ---
 

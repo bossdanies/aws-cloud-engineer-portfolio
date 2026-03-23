@@ -12,18 +12,16 @@ This setup follows AWS best practices for secure and scalable infrastructure des
 
 ## Architecture
 
-Custom VPC (10.0.0.0/24) 
 
-│ 
-├── Public Subnet (10.0.0.0/25) 
-│ 
-├── Internet Gateway
-│ 
-└── NAT Gateway
-│ 
-└── Private Subnet (10.0.0.128/25) 
- │
- └── Route Table│→ NAT Gateway
+Custom VPC (10.0.0.0/24)
+
+│
+├── Public Subnet (10.0.0.0/25)
+│ ├── Internet Gateway
+│ └── NAT Gateway
+│
+└── Private Subnet (10.0.0.128/25)
+└── Route Table → NAT Gateway
 
 ---
 

@@ -13,7 +13,7 @@ The goal is to understand how to implement an additional layer of security in a 
 
 ## Architecture
 
-
+```
 VPC
 
 │
@@ -21,7 +21,7 @@ VPC
 │ └── Network ACL (Firewall)
 │ ├── Inbound Rules
 │ └── Outbound Rules
-
+```
 
 ---
 

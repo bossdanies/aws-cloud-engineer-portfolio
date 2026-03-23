@@ -52,6 +52,8 @@ CIDR Block: **10.0.0.0/24**
 
 ## Deployment Steps
 
+### Step 1 — Create VPC  
+A custom VPC is created with CIDR block **10.0.0.0/24**.
 ## ![Step 1 - Create VPC](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/42a88b566001bf885d439dc02418c3b075ee8993/09-vpc-subnets-route-tables-nat/step-01-create-vpc.png)
 
 ## ![Step 2 - VPC Created](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/42a88b566001bf885d439dc02418c3b075ee8993/09-vpc-subnets-route-tables-nat/step-02-vpc-created.png)

@@ -9,7 +9,6 @@ The goal is to simulate a real-world cloud network where public resources have d
 This setup follows AWS best practices for secure and scalable infrastructure design.
 
 ---
-
 ## Architecture
 
 

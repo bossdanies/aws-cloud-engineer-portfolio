@@ -1,6 +1,6 @@
 # AWS S3 Bucket Setup
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to create an Amazon S3 bucket and upload an object to it.
 
@@ -10,7 +10,7 @@ This lab covers the basic operations of creating a bucket and uploading objects,
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 S3 Bucket
 
@@ -19,13 +19,13 @@ S3 Bucket
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon S3
 
 ---
 
-## Configuration Details
+## 📊 Configuration Details
 
 | Resource | Name |
 |--------|--------|
@@ -36,7 +36,7 @@ S3 Bucket
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Search for S3 Service
 
@@ -78,7 +78,7 @@ The object upload is confirmed with a success notification.
 
 ---
 
-## Result
+## 💥 Result
 
 An Amazon S3 bucket was successfully created and an object was uploaded to the bucket.
 
@@ -86,7 +86,7 @@ This demonstrates the basic workflow for storing and managing objects in Amazon 
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Amazon S3 Bucket Creation
 - Object Storage Management

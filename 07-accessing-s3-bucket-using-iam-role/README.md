@@ -1,6 +1,6 @@
 # AWS IAM Role for EC2 S3 Access
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to create an IAM Role that allows an EC2 instance to securely access Amazon S3 resources.
 
@@ -10,7 +10,7 @@ This is a best practice in AWS security architecture because it eliminates the n
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 EC2 Instance
 
@@ -22,7 +22,7 @@ EC2 Instance
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - AWS Identity and Access Management (IAM)
 - Amazon EC2
@@ -31,7 +31,7 @@ EC2 Instance
 
 ---
 
-## Configuration Details
+## 📊 Configuration Details
 
 | Resource | Name |
 |--------|--------|
@@ -43,7 +43,7 @@ EC2 Instance
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Create IAM Role for EC2
 
@@ -133,7 +133,7 @@ Using AWS CloudShell, the command `aws s3 ls` is executed to verify access to th
 
 ---
 
-## Result
+## 💥 Result
 
 An IAM Role was successfully created and attached to an EC2 instance.
 
@@ -143,7 +143,7 @@ This approach follows AWS security best practices by avoiding the use of static 
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - IAM Role Creation
 - EC2 Instance Role Attachment

@@ -1,6 +1,6 @@
 # AWS VPC Subnets, Route Tables and NAT Gateway
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to configure a complete AWS VPC networking architecture, including public and private subnets, Internet Gateway, route tables, and a NAT Gateway.
 
@@ -10,7 +10,7 @@ This setup follows AWS best practices for secure and scalable infrastructure des
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 ```
 Custom VPC (10.0.0.0/24)
@@ -27,7 +27,7 @@ Custom VPC (10.0.0.0/24)
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon VPC
 - Subnets
@@ -37,7 +37,7 @@ Custom VPC (10.0.0.0/24)
 
 ---
 
-## Network Configuration
+## 📊 Network Configuration
 
 | Resource              | Name              |
 | --------------------- | ----------------- |
@@ -53,7 +53,7 @@ CIDR Block: **10.0.0.0/24**
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Create VPC  
 A custom VPC is created with CIDR block **10.0.0.0/24**.
@@ -202,7 +202,7 @@ The private subnet is associated with the private route table.
 
 ---
 
-## Result
+## 💥 Result
 
 A fully functional AWS VPC networking architecture was successfully deployed.
 
@@ -212,7 +212,7 @@ A fully functional AWS VPC networking architecture was successfully deployed.
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - AWS VPC Networking  
 - Public and Private Subnet Design  

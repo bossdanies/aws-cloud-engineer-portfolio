@@ -1,6 +1,6 @@
 # AWS S3 Bucket Versioning Setup
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to enable versioning on an existing Amazon S3 bucket.
 
@@ -10,7 +10,7 @@ Versioning is commonly used in production environments for data protection, reco
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 S3 Bucket
 
@@ -22,14 +22,14 @@ S3 Bucket
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon S3
 - S3 Versioning
 
 ---
 
-## Configuration Details
+## 📊 Configuration Details
 
 | Resource | Name |
 |--------|--------|
@@ -39,7 +39,7 @@ S3 Bucket
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Select S3 Bucket
 
@@ -57,7 +57,7 @@ Versioning is enabled from the bucket properties section and successfully activa
 
 ---
 
-## Result
+## 💥 Result
 
 S3 Versioning was successfully enabled on the bucket.
 
@@ -65,7 +65,7 @@ New versions of objects uploaded to the bucket will now be stored, allowing reco
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Amazon S3 Bucket Configuration
 - S3 Versioning Management

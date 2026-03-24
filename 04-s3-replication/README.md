@@ -1,6 +1,6 @@
 # AWS S3 Cross-Region Replication (CRR) Setup
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to configure Cross-Region Replication (CRR) between two Amazon S3 buckets.
 
@@ -10,7 +10,7 @@ In this lab, a replication rule is configured to replicate objects uploaded to a
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 Source S3 Bucket (us-east-1)
 
@@ -22,7 +22,7 @@ Source S3 Bucket (us-east-1)
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon S3
 - S3 Cross-Region Replication (CRR)
@@ -30,7 +30,7 @@ Source S3 Bucket (us-east-1)
 
 ---
 
-## Bucket Configuration
+## 📊 Bucket Configuration
 
 | Resource | Name |
 |--------|--------|
@@ -42,7 +42,7 @@ Source S3 Bucket (us-east-1)
 
 ---
 
-## Replication Rule Configuration
+## 🚀 Replication Rule Configuration
 
 | Setting | Value |
 |--------|--------|
@@ -108,7 +108,7 @@ The uploaded object is automatically replicated to the destination bucket in the
 
 ---
 
-## Result
+## 💥 Result
 
 Cross-Region Replication was successfully configured and verified.
 
@@ -119,7 +119,7 @@ Destination: **destination-s3-bucket-02-2026 (us-east-2)**
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Amazon S3 Bucket Configuration
 - S3 Versioning Management

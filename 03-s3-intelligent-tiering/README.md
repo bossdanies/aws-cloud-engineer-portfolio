@@ -1,6 +1,6 @@
 # AWS S3 Intelligent-Tiering Setup
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to configure an Intelligent-Tiering policy on an Amazon S3 bucket to optimize storage costs.
 
@@ -10,7 +10,7 @@ This feature is commonly used in production environments to manage storage lifec
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 S3 Bucket
 
@@ -22,14 +22,14 @@ S3 Bucket
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon S3
 - S3 Intelligent-Tiering
 
 ---
 
-## Configuration Details
+## 📊 Configuration Details
 
 | Resource | Name |
 |--------|--------|
@@ -42,7 +42,7 @@ S3 Bucket
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Initial State (No Intelligent-Tiering Configuration)
 
@@ -68,7 +68,7 @@ The Intelligent-Tiering configuration is successfully created and enabled.
 
 ---
 
-## Result
+## 💥 Result
 
 An Intelligent-Tiering configuration was successfully applied to the S3 bucket.
 
@@ -76,7 +76,7 @@ Objects stored in the bucket will automatically be managed across storage tiers 
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Amazon S3 Storage Management
 - Intelligent-Tiering Configuration

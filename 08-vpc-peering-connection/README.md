@@ -1,6 +1,6 @@
 # AWS VPC Peering Connection Setup
 
-## Project Overview
+## 📌 Project Overview
 This project demonstrates how to create two Virtual Private Clouds (VPCs) and establish a VPC Peering connection between them.
 
 VPC Peering enables private communication between VPCs without using the public internet, improving security and performance.
@@ -9,7 +9,7 @@ This setup follows AWS networking best practices by isolating environments while
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 VPC 1 (10.0.0.0/24)
 
@@ -21,7 +21,7 @@ VPC 1 (10.0.0.0/24)
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon VPC  
 - VPC Peering  
@@ -30,7 +30,7 @@ VPC 1 (10.0.0.0/24)
 
 ---
 
-## Configuration Details
+## 📊 Configuration Details
 
 | Resource | Name |
 |--------|--------|
@@ -42,7 +42,7 @@ VPC 1 (10.0.0.0/24)
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Search VPC Service
 Navigate to the AWS console and search for the VPC service.
@@ -122,7 +122,7 @@ Without route table configuration, the peering connection will not allow traffic
 
 ---
 
-## Result
+## 💥 Result
 
 Two VPCs were successfully created and connected using VPC Peering.
 
@@ -130,7 +130,7 @@ The environments remain isolated but can communicate privately through AWS inter
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - VPC Creation  
 - CIDR Block Configuration  

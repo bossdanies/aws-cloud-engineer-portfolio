@@ -1,6 +1,6 @@
 # AWS VPC Web Server Deployment
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to deploy a public web server in AWS using a custom Virtual Private Cloud (VPC) architecture.  
 The infrastructure includes networking components such as a VPC, public subnet, Internet Gateway, route tables, and an EC2 instance.
@@ -9,7 +9,7 @@ The goal is to simulate a real-world cloud networking setup used in production e
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 Custom VPC (10.0.0.0/24)
 
@@ -24,7 +24,7 @@ Custom VPC (10.0.0.0/24)
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon VPC
 - Subnets
@@ -34,7 +34,7 @@ Custom VPC (10.0.0.0/24)
 
 ---
 
-## Network Configuration
+## 📊 Network Configuration
 
 | Resource | Name |
 |--------|--------|
@@ -48,7 +48,7 @@ CIDR Block: **10.0.0.0/24**
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Create VPC
 
@@ -167,7 +167,7 @@ Target: **Internet Gateway**
 
 ---
 
-## Result
+## 💥 Result
 
 A fully functional AWS infrastructure was deployed with a publicly accessible EC2 web server.
 
@@ -175,7 +175,7 @@ The server is reachable via its public IPv4 address through the configured Inter
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - AWS Networking
 - VPC Design

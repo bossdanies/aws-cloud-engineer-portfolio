@@ -119,24 +119,7 @@ index.html (Static Website)
 ### Step 14 — CloudFront Working
 ![Step 14 - CloudFront Working](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/845b16d392bcf59b672d14cfda88a86e5bf55c51/12-cloudfront-s3-static-website/step14-cloudfront-working.png)
 
----
-
-## 🧪 Troubleshooting
-
-During the deployment, the following issues were identified and resolved:
-
-- **AccessDenied Error**
-  - Cause: S3 bucket permissions blocked access  
-  - Solution: Configured CloudFront access using OAC  
-
-- **Blank Page Issue**
-  - Cause: Empty `index.html` file  
-  - Solution: Uploaded valid HTML content  
-
-- **Default Root Object Missing**
-  - Cause: CloudFront not pointing to `index.html`  
-  - Solution: Configured default root object  
-
+ 
 ---
 
 ## 🎯 Key Learnings
@@ -144,17 +127,7 @@ During the deployment, the following issues were identified and resolved:
 - Deploy static websites using S3 and CloudFront  
 - Understand CDN and global content delivery  
 - Secure S3 using private access with CloudFront  
-- Troubleshoot real AWS issues (permissions, caching, config)  
-
----
-
-## 🚀 Future Improvements
-
-- Add custom domain (Route 53)  
-- Enable HTTPS (AWS Certificate Manager)  
-- Improve UI with CSS & JavaScript  
-- Enable logging and monitoring  
-
+  
 ---
 
 # 💥 RESULT

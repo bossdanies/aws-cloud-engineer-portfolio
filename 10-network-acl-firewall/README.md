@@ -1,7 +1,7 @@
 
 # AWS Network ACL Firewall Configuration
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to configure a Network Access Control List (NACL) in AWS to control inbound and outbound traffic at the subnet level.
 
@@ -11,7 +11,7 @@ The goal is to understand how to implement an additional layer of security in a 
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 ```
 VPC
@@ -25,14 +25,14 @@ VPC
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon VPC
 - Network ACLs (NACL)
 
 ---
 
-## Configuration Details
+## 📊 Configuration Details
 
 | Resource     | Name    |
 |--------------|--------|
@@ -41,7 +41,7 @@ VPC
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Create Network ACL  
 A new Network ACL is created within the selected VPC.
@@ -57,7 +57,7 @@ The Network ACL is successfully created and visible in the dashboard.
 
 ---
 
-## Result
+## 💥 Result
 
 A Network ACL was successfully created and configured.
 
@@ -65,7 +65,7 @@ The NACL can now be used to control inbound and outbound traffic at the subnet l
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - AWS Network ACL Configuration  
 - Subnet-Level Security  

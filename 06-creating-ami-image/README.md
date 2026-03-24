@@ -1,6 +1,6 @@
 # AWS EC2 AMI Image Creation
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates how to launch an EC2 instance and create a custom Amazon Machine Image (AMI) from it.
 
@@ -10,7 +10,7 @@ This practice is commonly used in cloud environments for infrastructure replicat
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 EC2 Instance (Ubuntu)
 
@@ -19,7 +19,7 @@ EC2 Instance (Ubuntu)
 
 ---
 
-## AWS Services Used
+## ⚙️ AWS Services Used
 
 - Amazon EC2
 - Amazon Machine Image (AMI)
@@ -27,7 +27,7 @@ EC2 Instance (Ubuntu)
 
 ---
 
-## Instance Configuration
+## 📊 Instance Configuration
 
 | Resource | Name |
 |--------|--------|
@@ -39,7 +39,7 @@ EC2 Instance (Ubuntu)
 
 ---
 
-## Deployment Steps
+## 🚀 Deployment Steps
 
 ### Step 1 — Launch EC2 Instance
 
@@ -59,7 +59,7 @@ EC2 Instance (Ubuntu)
 
 ---
 
-## Result
+## 💥 Result
 
 A custom Amazon Machine Image (AMI) is created from the EC2 instance.
 
@@ -67,7 +67,7 @@ This AMI can now be used to launch new EC2 instances with the same operating sys
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - EC2 Instance Deployment
 - AMI Image Creation

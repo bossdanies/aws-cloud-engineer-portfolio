@@ -15,13 +15,17 @@ The goal is to simulate a real-world production setup where multiple web servers
 
 Internet
 
+
+Application Load Balancer (ALB)
 │
-└── Application Load Balancer (ALB)
+▼
+Target Group
 │
-└── Target Group
+▼
+ EC2 Instance 1 (Nginx)
 │
-├── EC2 Instance 1 (Nginx)
-└── EC2 Instance 2 (Nginx)
+▼
+ EC2 Instance 2 (Nginx)
 
 
 ---

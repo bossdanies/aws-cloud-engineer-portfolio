@@ -15,7 +15,8 @@ The goal is to simulate a real-world production setup where multiple web servers
 
 Internet
 
-
+│
+▼
 Application Load Balancer (ALB)
 │
 ▼

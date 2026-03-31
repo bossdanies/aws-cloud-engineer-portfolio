@@ -12,7 +12,8 @@ This setup follows best practices by using **private S3 access with CloudFront (
 
 ## 🏗️ Architecture
 
-
+│
+▼
 User (Browser)
 │
 ▼

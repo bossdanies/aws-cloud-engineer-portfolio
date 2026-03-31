@@ -12,10 +12,12 @@ This lab covers the basic operations of creating a bucket and uploading objects,
 
 ## 🏗️ Architecture
 
+│
+▼
 S3 Bucket
-
-│  
-└── Stored Object
+│
+▼  
+Stored Object
 
 ---
 

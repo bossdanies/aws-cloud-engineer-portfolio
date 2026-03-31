@@ -18,7 +18,8 @@ S3 Bucket
 │
 ▼  
 Stored Object
-
+│
+▼
 ---
 
 ## ⚙️ AWS Services Used

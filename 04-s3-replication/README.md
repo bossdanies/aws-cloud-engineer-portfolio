@@ -103,18 +103,6 @@ The uploaded object is automatically replicated to the destination bucket in the
 ![Step 6 - Object Replicated](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/269dbfc769ae52bcfdbb96853c05970c846306d5/04-s3-replication/step-06-object-replicated-to-destination-bucket.png)
 
 ---
-
-## 💥 Result
-
-Cross-Region Replication was successfully configured and verified.
-
-Objects uploaded to the source bucket are automatically replicated to the destination bucket located in another AWS region.
-
-Source: **source-s3-bucket-01-2026 (us-east-1)**  
-Destination: **destination-s3-bucket-02-2026 (us-east-2)**
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Amazon S3 Bucket Configuration

@@ -11,15 +11,11 @@ This is a best practice in AWS security architecture because it eliminates the n
 ---
 
 ## 🏗️ Architecture
-
-EC2 Instance
-
-│  
-└── IAM Role
-
-│  
-└── Amazon S3 Read Access
-
+```
+│▼ EC2 Instance
+│▼ IAM Role
+│▼ Amazon S3 Read Access
+```
 ---
 
 ## ⚙️ AWS Services Used

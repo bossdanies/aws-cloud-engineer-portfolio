@@ -11,15 +11,11 @@ In this lab, a replication rule is configured to replicate objects uploaded to a
 ---
 
 ## 🏗️ Architecture
-
-Source S3 Bucket (us-east-1)
-
-│  
-└── Cross-Region Replication Rule
-
-│  
-└── Destination S3 Bucket (us-east-2)
-
+```
+│▼ Source S3 Bucket (us-east-1)
+│▼ Cross-Region Replication Rule
+│▼ Destination S3 Bucket (us-east-2)
+```
 ---
 
 ## ⚙️ AWS Services Used

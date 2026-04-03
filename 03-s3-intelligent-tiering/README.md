@@ -11,15 +11,12 @@ This feature is commonly used in production environments to manage storage lifec
 ---
 
 ## 🏗️ Architecture
+```
+│▼ S3 Bucket
+│▼ Intelligent-Tiering Configuration
+│▼ Automatic Tier Management
 
-S3 Bucket
-
-│  
-└── Intelligent-Tiering Configuration
-
-│  
-└── Automatic Tier Management
-
+```
 ---
 
 ## ⚙️ AWS Services Used

@@ -157,15 +157,6 @@ Accessing the Load Balancer DNS displays the Nginx web server.
 ![Step 16](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/df8b9da038c5a672bfaa1c7130e2de7cb2e9bab5/13-application-load-balancer/step-16-final-nginx-output.png)
 
 ---
-
-## 💥 Result
-
-The Application Load Balancer successfully distributes incoming traffic across multiple EC2 instances.
-
-Both instances are healthy and serving web content, ensuring high availability and load distribution.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Application Load Balancer Configuration  

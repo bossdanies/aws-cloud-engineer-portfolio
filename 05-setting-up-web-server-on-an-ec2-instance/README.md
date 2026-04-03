@@ -10,18 +10,13 @@ The goal is to simulate a real-world cloud networking setup used in production e
 ---
 
 ## 🏗️ Architecture
-
-Custom VPC (10.0.0.0/24)
-
-│  
-├── Public Subnet  
-│  
-├── Internet Gateway  
-│  
-└── Route Table  
-&nbsp;&nbsp;&nbsp;&nbsp;│  
-&nbsp;&nbsp;&nbsp;&nbsp;└── EC2 Instance (Web Server)
-
+```
+│▼ Custom VPC (10.0.0.0/24)
+│▼ Public Subnet    
+│▼ Internet Gateway  
+│▼ Route Table  
+│▼ EC2 Instance (Web Server)
+```
 ---
 
 ## ⚙️ AWS Services Used

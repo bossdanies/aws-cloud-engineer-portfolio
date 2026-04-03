@@ -12,18 +12,10 @@ This setup follows best practices by using **private S3 access with CloudFront (
 
 ## 🏗️ Architecture
 ```
-│
-▼
-User (Browser)
-│
-▼
-CloudFront (CDN)
-│
-▼
-Amazon S3 (Private Bucket)
-│
-▼
-index.html (Static Website)
+│▼ User (Browser)
+│▼ CloudFront (CDN)
+│▼ Amazon S3 (Private Bucket)
+│▼ index.html (Static Website)
 
 ```
 ---

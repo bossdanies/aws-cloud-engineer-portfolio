@@ -11,12 +11,10 @@ This practice is commonly used in cloud environments for infrastructure replicat
 ---
 
 ## 🏗️ Architecture
-
-EC2 Instance (Ubuntu)
-
-│  
-└── Custom AMI Image
-
+```
+│▼ EC2 Instance (Ubuntu)
+│▼ Custom AMI Image
+```
 ---
 
 ## ⚙️ AWS Services Used

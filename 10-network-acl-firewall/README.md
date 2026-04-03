@@ -54,15 +54,6 @@ The Network ACL is successfully created and visible in the dashboard.
 ![Step 2 - NACL Dashboard](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/61e931319dbfeb8be260497aabf6c85a8ef49712/10-network-acl-firewall/step-02-nacl-dashboard.png)
 
 ---
-
-## 💥 Result
-
-A Network ACL was successfully created and configured.
-
-The NACL can now be used to control inbound and outbound traffic at the subnet level, adding an extra layer of security to the VPC.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - AWS Network ACL Configuration  

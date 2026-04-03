@@ -64,15 +64,6 @@ The Intelligent-Tiering configuration is successfully created and enabled.
 ![Step 3 - Intelligent Tiering Enabled](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/94861cba4e3c5bf30ffaede7f1f020c91e0308d3/03-s3-intelligent-tiering/step3-intelligent-tiering-enabled.png)
 
 ---
-
-## 💥 Result
-
-An Intelligent-Tiering configuration was successfully applied to the S3 bucket.
-
-Objects stored in the bucket will automatically be managed across storage tiers based on access patterns, helping optimize storage costs while maintaining performance.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Amazon S3 Storage Management

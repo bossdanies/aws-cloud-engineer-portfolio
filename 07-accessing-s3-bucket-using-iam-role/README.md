@@ -128,17 +128,6 @@ Using AWS CloudShell, the command `aws s3 ls` is executed to verify access to th
 ![Step 11 - Verify Access](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/5bced0329bfd3ae1fa0f061aa54d9c55d8decbbd/07-accessing-s3-bucket-using-iam-role/step11-verify-access.png)
 
 ---
-
-## 💥 Result
-
-An IAM Role was successfully created and attached to an EC2 instance.
-
-The EC2 instance can now securely access Amazon S3 using temporary credentials provided by the IAM role.
-
-This approach follows AWS security best practices by avoiding the use of static access keys on servers.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - IAM Role Creation

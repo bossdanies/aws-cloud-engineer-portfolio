@@ -77,14 +77,6 @@ The object upload is confirmed with a success notification.
 
 ---
 
-## 💥 Result
-
-An Amazon S3 bucket was successfully created and an object was uploaded to the bucket.
-
-This demonstrates the basic workflow for storing and managing objects in Amazon S3.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Amazon S3 Bucket Creation

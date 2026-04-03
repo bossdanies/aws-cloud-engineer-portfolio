@@ -69,15 +69,6 @@ The logs are delivered to the S3 bucket under the AWSLogs directory.
 ![Step 4 - S3 Logs](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/ae895b841a691fdb63deedea372cc376738e0385/11-vpc-flow-logs-monitoring/step-04-s3-logs.png)
 
 ---
-
-## 💥 Result
-
-VPC Flow Logs were successfully enabled and configured.
-
-Network traffic is now being captured and stored in Amazon S3, allowing monitoring and analysis of network activity.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - VPC Flow Logs Configuration  

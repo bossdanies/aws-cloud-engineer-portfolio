@@ -12,22 +12,13 @@ The goal is to simulate a real-world production setup where multiple web servers
 
 ## 🏗️ Architecture
 
-
-Internet
-
-│
-▼
-Application Load Balancer (ALB)
-│
-▼
-Target Group
-│
-▼
- EC2 Instance 1 (Nginx)
-│
-▼
- EC2 Instance 2 (Nginx)
-
+```
+│▼ Internet
+│▼ Application Load Balancer (ALB)
+│▼ Target Group
+│▼ EC2 Instance 1 (Nginx)
+│▼ EC2 Instance 2 (Nginx)
+```
 
 ---
 

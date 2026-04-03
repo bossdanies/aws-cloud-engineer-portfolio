@@ -13,12 +13,10 @@ The goal is to implement network monitoring and store logs in Amazon S3 for furt
 ## 🏗️ Architecture
 
 ```
-VPC
-
-│
-└── Flow Logs
-└── Amazon S3 Bucket
-└── AWSLogs/
+│▼ VPC
+│▼ Flow Logs
+│▼ Amazon S3 Bucket
+│▼ AWSLogs/
 ```
 
 ---

@@ -117,15 +117,6 @@ To enable full communication between VPCs, route tables must be updated in both 
 Without route table configuration, the peering connection will not allow traffic flow.
 
 ---
-
-## 💥 Result
-
-Two VPCs were successfully created and connected using VPC Peering.
-
-The environments remain isolated but can communicate privately through AWS internal networking.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - VPC Creation  

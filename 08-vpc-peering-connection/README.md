@@ -10,15 +10,11 @@ This setup follows AWS networking best practices by isolating environments while
 ---
 
 ## 🏗️ Architecture
-
-VPC 1 (10.0.0.0/24)
-
-│  
-└── VPC Peering Connection  
-
-│  
-└── VPC 2 (172.31.0.0/16)
-
+```
+│▼ VPC 1 (10.0.0.0/24)
+│▼ VPC Peering Connection  
+│▼ VPC 2 (172.31.0.0/16)
+```
 ---
 
 ## ⚙️ AWS Services Used

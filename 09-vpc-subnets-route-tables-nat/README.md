@@ -198,17 +198,6 @@ The private subnet is associated with the private route table.
 ![Step 21 - Associate Private Subnet](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/42a88b566001bf885d439dc02418c3b075ee8993/09-vpc-subnets-route-tables-nat/step-21-private-route-table-associated.png)
 
 ---
-
-## 💥 Result
-
-A fully functional AWS VPC networking architecture was successfully deployed.
-
-- Public subnet has direct internet access via Internet Gateway  
-- Private subnet accesses the internet securely through NAT Gateway  
-- Proper routing ensures secure and controlled traffic flow  
-
----
-
 ## 🎯 Skills Demonstrated
 
 - AWS VPC Networking  

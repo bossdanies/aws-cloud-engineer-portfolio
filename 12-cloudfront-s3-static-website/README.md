@@ -11,7 +11,7 @@ This setup follows best practices by using **private S3 access with CloudFront (
 ---
 
 ## 🏗️ Architecture
-
+```
 │
 ▼
 User (Browser)
@@ -25,7 +25,7 @@ Amazon S3 (Private Bucket)
 ▼
 index.html (Static Website)
 
-
+```
 ---
 
 ## ⚙️ AWS Services Used

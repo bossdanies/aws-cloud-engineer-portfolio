@@ -56,15 +56,6 @@ This practice is commonly used in cloud environments for infrastructure replicat
 ![Step 3 - EC2 Instance Running](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/f6f392a075aada07dc9d068ddabaa9aa75be0b29/06-creating-ami-image/step3-create-ami-from-ec2.png)
 
 ---
-
-## 💥 Result
-
-A custom Amazon Machine Image (AMI) is created from the EC2 instance.
-
-This AMI can now be used to launch new EC2 instances with the same operating system and configuration.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - EC2 Instance Deployment

@@ -13,7 +13,7 @@ Versioning is commonly used in production environments for data protection, reco
 ## 🏗️ Architecture
 ---
 │▼  S3 Bucket
-│▼  Versioning Enabled ␣
+│▼  Versioning Enabled 
 │▼  Multiple Object Versions Stored 
 ---
 

@@ -161,15 +161,6 @@ Target: **Internet Gateway**
 ![Step 19 - Web Server Accessed](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/127e93acb39771b84579c10bf9d906006b3533ba/05-setting-up-web-server-on-an-ec2-instance/step19-web-server-accessed.png)
 
 ---
-
-## 💥 Result
-
-A fully functional AWS infrastructure was deployed with a publicly accessible EC2 web server.
-
-The server is reachable via its public IPv4 address through the configured Internet Gateway and route table.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - AWS Networking

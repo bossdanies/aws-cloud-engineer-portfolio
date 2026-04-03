@@ -51,15 +51,6 @@ Versioning is enabled from the bucket properties section and successfully activa
 ![Step 2 - Enable Versioning](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/902ad70d0123bccc5960fb625cebf52b9f0f7f06/02-configuring-s3-versioning/step2-versioning-enabled.png)
 
 ---
-
-## 💥 Result
-
-S3 Versioning was successfully enabled on the bucket.
-
-New versions of objects uploaded to the bucket will now be stored, allowing recovery of previous versions if objects are modified or deleted.
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Amazon S3 Bucket Configuration

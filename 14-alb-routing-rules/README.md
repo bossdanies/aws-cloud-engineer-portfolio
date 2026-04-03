@@ -47,55 +47,55 @@ The goal is to simulate real-world traffic control and routing behavior used in 
 
 ### Step 1 — Select Load Balancer Type
 
-![Step 1](./screenshots/step-01-select-load-balancer-type.png)
+![Step 1](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-01-select-load-balancer-type.png)
 
 ---
 
 ### Step 2 — Create Application Load Balancer
 
-![Step 2](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-01-select-load-balancer-type.png)
+![Step 2](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-02-create-application-load-balancer.png)
 
 ---
 
 ### Step 3 — Load Balancer Created
 
-![Step 3](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-02-create-application-load-balancer.png)
+![Step 3](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-03-load-balancer-created.png)
 
 ---
 
 ### Step 4 — Load Balancer Overview
 
-![Step 4](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-03-load-balancer-created.png)
+![Step 4](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-04-load-balancer-overview.png)
 
 ---
 
 ### Step 5 — View Listeners and Rules
 
-![Step 5](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-05-listeners-and-rules.png)
+![Step 5](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-05-listeners-and-rules.png)
 
 ---
 
 ### Step 6 — Add New Rule
 
-![Step 6](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-06-add-rule.png)
+![Step 6](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-06-add-rule.png)
 
 ---
 
 ### Step 7 — Set Rule Priority
 
-![Step 7](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-07-set-rule-priority.png)
+![Step 7](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-07-set-rule-priority.png)
 
 ---
 
 ### Step 8 — Rule Successfully Created
 
-![Step 8](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-08-rule-created.png)
+![Step 8](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-08-rule-created.png)
 
 ---
 
 ### Step 9 — Final Listener Rules
 
-![Step 9](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/d30f1182e705d193f0a2a271fcad82dee57dff46/14-alb-routing-rules/step-09-final-listener-rules.png)
+![Step 9](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/c6cffc6533df3722dae02f187d90c1d18e7c209a/14-alb-routing-rules/step-09-final-listener-rules.png)
 
 ---
 

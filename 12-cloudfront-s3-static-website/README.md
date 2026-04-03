@@ -115,16 +115,10 @@ This setup follows best practices by using **private S3 access with CloudFront (
  
 ---
 
-## 🎯 Key Learnings
+## 🎯 Skills Demonstrated
 
 - Deploy static websites using S3 and CloudFront  
 - Understand CDN and global content delivery  
 - Secure S3 using private access with CloudFront  
   
----
-
-# 💥 RESULT
-
-👉 Fully functional **CloudFront + S3 static website**  
-👉 Secure and scalable architecture  
-👉 Real-world cloud deployment project  
+ 

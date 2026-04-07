@@ -11,13 +11,13 @@ The goal is to deploy a relational database inside a custom VPC using proper sub
 ---
 
 ## 🏗️ Architecture
-
+```
 │▼ VPC
 │▼ Subnet (AZ-1)
 │▼ Subnet (AZ-2)
 │▼ DB Subnet Group
 │▼ Amazon RDS (MySQL)
-
+```
 
 ---
 

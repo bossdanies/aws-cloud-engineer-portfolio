@@ -36,7 +36,7 @@ This project demonstrates how to deploy a highly available web application on AW
 
 Create the custom VPC.
 
-![Step 1](16-aws-highly-available-web-app/step01-create-vpc.png)
+![Step 1](https://github.com/bossdanies/aws-cloud-engineer-portfolio/blob/ceaf051aed1f4c093208c5fc61d1feb339971127/16-aws-highly-available-web-app/step01-create-vpc.png)
 
 ## Step 2
 
